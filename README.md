@@ -8,6 +8,8 @@ I’m using this repo to:
 - Run experiments
 - Possibly try out small modifications
 
+Experiments are organized into Google Colab notebooks.
+
 ## Original Repository
 
 Please refer to the official version here:  
