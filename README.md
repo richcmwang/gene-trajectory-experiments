@@ -8,7 +8,7 @@ I’m using this repo to:
 - Run experiments
 - Possibly try out small modifications
 
-Experiments are organized into Google Colab notebooks.
+Experiments are organized into Google Colab notebooks. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/richcmwang/gene-trajectory-experiments/blob/main/notebooks/tutorial_human_myeloid.ipynb) 
 
 ## Original Repository
 
