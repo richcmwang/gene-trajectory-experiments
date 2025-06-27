@@ -21,4 +21,4 @@ https://doi.org/10.1038/s41587-024-02186-3).
 
 ## License
 
-This repo includes code from the original `Python Gene Trajectory` project, which is licensed under the [MIT License](./LICENSE).
+This repo includes code from the original `GeneTrajectory-Python` project, which is licensed under the [MIT License](./LICENSE).
