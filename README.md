@@ -6,9 +6,9 @@ I’m using this repo to:
 
 - Understand how the method works
 - Run experiments
-- Possibly try out small modifications
+- Possibly try out modifications
 
-Experiments are organized into Google Colab notebooks. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/richcmwang/gene-trajectory-experiments/blob/main/notebooks/tutorial_human_myeloid.ipynb) 
+Experiments based on the original tutorial are organized into Google Colab notebooks. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/richcmwang/gene-trajectory-experiments/blob/main/notebooks/tutorial_human_myeloid.ipynb) 
 
 ## Original Repository
 
